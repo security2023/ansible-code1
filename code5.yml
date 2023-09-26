@@ -12,3 +12,4 @@
           line: module-store = serge
           state: absent 
           #create: yes
+ # this line is to test jenkins ci/cd build for yml files
